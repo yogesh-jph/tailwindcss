@@ -13,7 +13,7 @@ function App() {
       <Navbar>
         
       </Navbar>
-      <h1><b>HELLO YOGESH</b></h1>
+      <h1><b>HELLO YOGESH SHARMA</b></h1>
     </div>
   )
 }
